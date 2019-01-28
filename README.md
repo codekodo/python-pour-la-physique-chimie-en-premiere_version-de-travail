@@ -1,1 +1,1 @@
-# python-pour-la-physique-chimie-en-premiere
+Ressources pour le programme de Physique-Chimie de Première.
